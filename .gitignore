@@ -1,0 +1,9 @@
+.idea/
+.circleci/
+node_modules/
+.eslintrc.js
+History.md/
+Makefile
+Readme.md
+example.js
+test/
